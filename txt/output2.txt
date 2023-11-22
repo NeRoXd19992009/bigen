@@ -1,0 +1,2 @@
+This is what we know about the avacado:Hello this is input txt 
+ Created on Mon Nov 20 2023 17:14:08 GMT+0300 (Москва, стандартное время)
